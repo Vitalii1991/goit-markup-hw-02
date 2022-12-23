@@ -56,7 +56,7 @@ body {
     color: #FFFFFF;
 }
 
-/* Section */
+/* Section 1*/
 
 .section-title {
     color: var(--title-text-color);
@@ -64,4 +64,29 @@ body {
 
 .features .title {
     color: var(--title-text-color);
+}
+
+/* Section 3 */
+
+.section-teams {
+    background-color: #F4F4FD;
+}
+.teams .title {
+    color: var(--title-text-color);
+}
+
+/* Footer */
+
+.copyright {
+    background-color: var(--title-text-color);
+}
+.logo-footer {
+    color: #F4F4FD;
+    
+}
+.style-logo {
+    color: var(--accent-color);
+}
+.text-footer {
+    color: #E7E9FC;
 }
