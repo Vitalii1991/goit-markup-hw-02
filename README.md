@@ -1,1 +1,1 @@
-# goit-markup-hw-02
+# HOMEWORK 2
