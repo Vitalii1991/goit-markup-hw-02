@@ -5,10 +5,11 @@
     --primary-text-color: #434455;
     --title-text-color: #2E2F42;
     --accent-color: #4D5AE5;
+    --primary-white-color: #FFFFFF;
 }
 
 body {
-    background-color: #ffffff;
+    background-color: var(--primary-white-color);
     color: var(--primary-text-color);
 }
 .list {
@@ -44,16 +45,16 @@ body {
 /* Hero */
 
 .hero {
-    background-color: #2E2F42;
+    background-color: var(--title-text-color);
 }
 .hero-title {
-    color: #FFFFFF;
+    color: var(--primary-white-color);
 }
 .hero-button {
-    background-color: #4D5AE5;
+    background-color: var(--accent-color);
     border: 0;
     border-radius: 2px;
-    color: #FFFFFF;
+    color: var(--primary-white-color);
 }
 
 /* Section 1*/
