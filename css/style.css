@@ -1,0 +1,67 @@
+/* цвет заголовков #2E2F42 */
+
+/* основной цвет текста #434455 */
+:root {
+    --primary-text-color: #434455;
+    --title-text-color: #2E2F42;
+    --accent-color: #4D5AE5;
+}
+
+body {
+    background-color: #ffffff;
+    color: var(--primary-text-color);
+}
+.list {
+    list-style: none;
+}
+
+/* Navigation*/
+
+.logo {
+    color: var(--title-text-color);
+}
+.logo-style {
+    color: #4D5AE5;
+}
+.site-nav .link {
+    color: var(--title-text-color);
+}
+.site-nav .link:hover,
+.site-nav .link:focus {
+    color: var(--accent-color);
+}
+
+/* Contacts */
+
+.contacts-nav .link {
+    color: var(--primary-text-color);
+}
+.contacts-nav .link:hover,
+.contacts-nav .link:focus {
+    color: var(--accent-color);
+}
+
+/* Hero */
+
+.hero {
+    background-color: #2E2F42;
+}
+.hero-title {
+    color: #FFFFFF;
+}
+.hero-button {
+    background-color: #4D5AE5;
+    border: 0;
+    border-radius: 2px;
+    color: #FFFFFF;
+}
+
+/* Section */
+
+.section-title {
+    color: var(--title-text-color);
+}
+
+.features .title {
+    color: var(--title-text-color);
+}
