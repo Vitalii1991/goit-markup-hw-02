@@ -21,7 +21,7 @@ body {
     color: var(--title-text-color);
 }
 .logo-style {
-    color: #4D5AE5;
+    color: var(--accent-color);
 }
 .site-nav .link {
     color: var(--title-text-color);
