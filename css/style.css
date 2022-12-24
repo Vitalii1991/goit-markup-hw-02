@@ -100,17 +100,17 @@ a {
 
 /* Porfolio Style */
 
-.portfolio-nav .link {
+.projects-nav .link {
     color: var(--accent-color);
     background-color: #E7E9FC;
     border: 0;
     border-radius: 2px;
 }
-.portfolio-nav .link:hover,
-.portfolio-nav .link:focus {
+.projects-nav .link:hover,
+.projects-nav .link:focus {
     color: var(--primary-white-color);
     background-color: var(--accent-color)
 }
-.porfolio-example .title {
+.projects .title {
     color: var(--title-text-color);
 }
