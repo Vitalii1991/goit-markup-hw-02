@@ -100,14 +100,14 @@ a {
 
 /* Porfolio Style */
 
-.projects-nav .link {
+.projects-filter .link {
     color: var(--accent-color);
     background-color: #E7E9FC;
     border: 0;
     border-radius: 2px;
 }
-.projects-nav .link:hover,
-.projects-nav .link:focus {
+.projects-filter .link:hover,
+.projects-filter .link:focus {
     color: var(--primary-white-color);
     background-color: var(--accent-color)
 }
