@@ -38,7 +38,7 @@ button {
     letter-spacing: 0.03em;
     text-decoration: none;
 }
-.logo-accent {
+.logo .accent {
     color: var(--accent-color);
 }
 
