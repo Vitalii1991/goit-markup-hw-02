@@ -8,7 +8,6 @@
     --accent-color: #4D5AE5;
     --primary-white-color: #FFFFFF;
 }
-
 body {
     background-color: var(--primary-white-color);
     color: var(--primary-text-color);
@@ -176,6 +175,6 @@ button {
 .projects .link{
     text-decoration: none;
 }
-.projects .title {
-    color: var(--title-text-color);
+.projects .link p{
+    color: var(--primary-text-color);
 }
